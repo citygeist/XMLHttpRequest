@@ -1,11 +1,11 @@
-/* =================================#
-# ULTRACODEX MODELING 							#
-# AJAX SYS-LAYER LOADER 		   			#
-#	AUTOR: 	Z=OM 											#
-# EMAIL: 	info@citygeist.de 				#
-# VERSION: 	0.3					   					#
-# BUILD: 	 2012 										#
-#================================= */
+/* 
+ULTRACODEX MODELING
+AJAX SYS-LAYER LOADER
+AUTOR:Z=OM
+EMAIL:info@citygeist.de
+VERSION:0.3
+BUILD:03.0401.2012
+*/
 
 /* INIT */
 var xmlHttpObject = false;
